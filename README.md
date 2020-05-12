@@ -15,4 +15,4 @@ The code Train_images uses deep learning in order to train an algorithm to recog
 The code Face_Recognition starts a video in which face recognition is applied in real time. 
 ### Script: python Face_Recognition.py -d face_detection_model -m openface_nn4.small2.v1.t7 -r output/recognizer.pickle -l output/label.pickle
 # Reference
-Adrian Rosebrock, OpenCV Face Recognition, PyImageSearch, https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/, accessed on 16 April 2019
+Adrian Rosebrock, OpenCV Face Recognition, PyImageSearch, https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/, accessed on 12 May 2020
