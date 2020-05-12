@@ -8,7 +8,7 @@ This code works only on a linux machine or a windows machine with python 3.6 or 
 1. Feature Extraction
 The code features.py is used to extract the features in our database and create a neural network. 
 Script: python features.py -i training_set -f output/features.pickle -d face_detection_model -m openface_nn4.small2.v1.t7
-2. Training
+2. Training:
 The code Train_images uses deep learning in order to train an algorithm to recognize the images and images similar in the dataset.
 Script: python train_images.py -f output/features.pickle -r output/recognizer.pickle -l output/label.pickle
 3. Test the recognition
