@@ -1,4 +1,4 @@
-# Master-s-Project
+# Real-Time Face Recognition
 There are three main aspects to this project that should be executed in order.
 In order to download the feature model visit
 https://github.com/pyannote/pyannote-data/blob/master/openface.nn4.small2.v1.t7
